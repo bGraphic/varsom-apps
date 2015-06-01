@@ -1,7 +1,7 @@
 # Varsom apps
 Varsom is a [webpage](http://varsom.no), an [iOS-app](https://itunes.apple.com/no/app/varsom/id623785979) and a new hybrid app is in development.
 
-The scope of this prosject are the varsom apps and their joint backend in [Parse](http://parse.com).
+The scope of this project are the varsom apps and their joint backend in [Parse](http://parse.com).
 
 ## Repositories
 
@@ -12,14 +12,20 @@ The scope of this prosject are the varsom apps and their joint backend in [Parse
 ### Backend
 * [varsom-parse](https://github.com/bGraphic/varsom-parse)
 
-### Documentatin and issues
-* This repository
-
 ## Issues
-Issues can be viewed on [GitHub](https://github.com/bGraphic/varsom-docs-issues/issues) or through [Huboard](https://huboard.com/bGraphic/varsom-docs-issues/) as a Kanban board.
+Issues for all varsom repositories can be viewed combined on [Huboard](https://huboard.com/bGraphic/varsom-apps/).
 
-[Milestones](https://github.com/bGraphic/varsom-docs-issues/milestones?direction=asc&sort=due_date&state=open) are used to group functionality into shippable units.
-> The due dates are used for prioritizing only, not to denote actual due date.
+Issues for a single repository can be viewed either on Github or Hubord.
+* varsom-ios | [Issues on Github](https://github.com/bGraphic/varsom-ios/issues) | [Issues on Huboard](https://huboard.com/bGraphic/varsom-ios/)
+* varsom-hybrid | [Issues on Github](https://github.com/bGraphic/varsom-hybrid/issues) | [Issues on Huboard](https://huboard.com/bGraphic/varsom-hybrid/)
+* varsom-parse | [Issues on Github](https://github.com/bGraphic/varsom-parse/issues) | [Issues on Huboard](https://huboard.com/bGraphic/varsom-parse/)
+
+### [Huboard](https://huboard.com)
+A kanban webservice for GitHub issues. 
+
+Sign in using your GitHub accound and give Huboard access to your repositories.
 
 ## Documentation
-Documentation will become a part of this repository and will be awailable through GitHub Pages.
+Documentation can be found in [the wiki](https://github.com/bGraphic/varsom-apps/wiki) of this repository.
+
+The wiki can be cloned and edited locally using https://github.com/bGraphic/varsom-apps.wiki.git
