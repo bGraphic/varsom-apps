@@ -13,19 +13,26 @@ The scope of this project are the varsom apps and their joint backend in [Parse]
 * [varsom-parse](https://github.com/bGraphic/varsom-parse)
 
 ## Issues
-Issues for all varsom repositories can be viewed combined on [Huboard](https://huboard.com/bGraphic/varsom-apps/).
+Issues for all varsom repositories can be [viewed combined through Huboard](https://huboard.com/bGraphic/varsom-apps/).
 
 Issues for a single repository can be viewed either on Github or Hubord.
+* varsom-apps | [Issues on Github](https://github.com/bGraphic/varsom-apps/issues) | [Issues on Huboard](https://huboard.com/bGraphic/varsom-apps/)
 * varsom-ios | [Issues on Github](https://github.com/bGraphic/varsom-ios/issues) | [Issues on Huboard](https://huboard.com/bGraphic/varsom-ios/)
 * varsom-hybrid | [Issues on Github](https://github.com/bGraphic/varsom-hybrid/issues) | [Issues on Huboard](https://huboard.com/bGraphic/varsom-hybrid/)
 * varsom-parse | [Issues on Github](https://github.com/bGraphic/varsom-parse/issues) | [Issues on Huboard](https://huboard.com/bGraphic/varsom-parse/)
 
-### [Huboard](https://huboard.com)
-A kanban webservice for GitHub issues. 
+**[Huboard](https://huboard.com)**
+is a kanban webservice for GitHub issues.  
+Sign in using your GitHub account.
 
-Sign in using your GitHub accound and give Huboard access to your repositories.
+### Process
+* When you start work on an issue pull it into the next appropriate lane.
+* When you are done with the work mark the issue as "ready for next stage".
+* If you are having problems and/or need help mark the issue as "blocked".
+
+Never push an issue into the next lane when you are done.
 
 ## Documentation
 Documentation can be found in [the wiki](https://github.com/bGraphic/varsom-apps/wiki) of this repository.
 
-The wiki can be cloned and edited locally using https://github.com/bGraphic/varsom-apps.wiki.git
+The wiki can be cloned and edited locally using https://github.com/bGraphic/varsom-apps.wiki.git.
