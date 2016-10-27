@@ -7,15 +7,19 @@ The scope of this project are the varsom apps and their backend.
 
 ## Repositories
 
-### Apps
+### Current
 * [varsom-ios](https://github.com/bGraphic/varsom-ios)
-* [varsom-hybrid](https://github.com/bGraphic/varsom-hybrid)
-
-### Backend
 * [varsom-parse](https://github.com/bGraphic/varsom-parse)
-* [varsom-server](https://github.com/bGraphic/varsom-server)
-  * New import jobs running on Heroku importing data to Firebase.
 
+### In development
+* [varsom-hybrid](https://github.com/bGraphic/varsom-hybrid)
+* [varsom-server](https://github.com/bGraphic/varsom-server)
+
+### Suporting
+* [varsom-data](https://github.com/bGraphic/varsom-data)
+  * Reposistory with api samples and geojson files etc.
+* [varsom-secrets](https://github.com/bGraphic/varsom-secrets)
+  * Repsoitory with passwords, keys etc.
 
 ## Issues
 Issues for all varsom repositories can be [viewed combined through Huboard](https://huboard.com/bGraphic/varsom-apps/).
