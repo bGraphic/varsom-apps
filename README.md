@@ -1,7 +1,9 @@
 # Varsom apps
-Varsom is a [webpage](http://varsom.no), an [iOS-app](https://itunes.apple.com/no/app/varsom/id623785979) and a new hybrid app is in development.
+Varsom is a [webpage](http://varsom.no) and currently an [iOS-app](https://itunes.apple.com/no/app/varsom/id623785979).
 
-The scope of this project are the varsom apps and their joint backend in [Parse](http://parse.com).
+A new hybrid app and firebase/heroku backend is in development.
+
+The scope of this project are the varsom apps and their backend.
 
 ## Repositories
 
@@ -11,6 +13,9 @@ The scope of this project are the varsom apps and their joint backend in [Parse]
 
 ### Backend
 * [varsom-parse](https://github.com/bGraphic/varsom-parse)
+* [varsom-server](https://github.com/bGraphic/varsom-server)
+  * New import jobs running on Heroku importing data to Firebase.
+
 
 ## Issues
 Issues for all varsom repositories can be [viewed combined through Huboard](https://huboard.com/bGraphic/varsom-apps/).
@@ -18,8 +23,9 @@ Issues for all varsom repositories can be [viewed combined through Huboard](http
 Issues for a single repository can be viewed either on Github or Hubord.
 * varsom-apps | [Issues on Github](https://github.com/bGraphic/varsom-apps/issues) | [Issues on Huboard](https://huboard.com/bGraphic/varsom-apps/)
 * varsom-ios | [Issues on Github](https://github.com/bGraphic/varsom-ios/issues) | [Issues on Huboard](https://huboard.com/bGraphic/varsom-ios/)
-* varsom-hybrid | [Issues on Github](https://github.com/bGraphic/varsom-hybrid/issues) | [Issues on Huboard](https://huboard.com/bGraphic/varsom-hybrid/)
 * varsom-parse | [Issues on Github](https://github.com/bGraphic/varsom-parse/issues) | [Issues on Huboard](https://huboard.com/bGraphic/varsom-parse/)
+* varsom-hybrid | [Issues on Github](https://github.com/bGraphic/varsom-hybrid/issues) | [Issues on Huboard](https://huboard.com/bGraphic/varsom-hybrid/)
+* varsom-server | [Issues on Github](https://github.com/bGraphic/varsom-server/issues) | [Issues on Huboard](https://huboard.com/bGraphic/varsom-server/)
 
 **[Huboard](https://huboard.com)**
 is a kanban webservice for GitHub issues.  
